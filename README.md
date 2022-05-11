@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [RentACarProject](https://github.com/Enesctnts/RentACarProject)
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **enesctnts@gmail.com**
 
 - ⚡ Fun fact **I'm always fine**
